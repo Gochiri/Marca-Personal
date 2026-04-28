@@ -5,6 +5,12 @@
 *.pem
 *.key
 
+# Claude Code local settings (contiene tokens en texto plano)
+.claude/
+
+# Repos anidados con su propio origen
+goviralbro/
+
 # OS
 .DS_Store
 Thumbs.db
