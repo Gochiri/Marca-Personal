@@ -1,0 +1,14 @@
+# Credenciales y tokens — NUNCA commitear
+.mcp.json
+.env
+.env.*
+*.pem
+*.key
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
